@@ -1,5 +1,10 @@
 h1 {
   text-align: center;
-  color: blueviolet;
+  color: #8c7a6c;
   font-weight: bold;
+}
+img {
+  display: block;
+  margin: 0 auto;
+  max-width: 80%;
 }
